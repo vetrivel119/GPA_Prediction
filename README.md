@@ -50,10 +50,6 @@ streamlit run app.py
 
 🔥 Easy to use with minimal setup
 
-🖼️ App Preview
-![Uploading image.png…]()
-
-
 💬 Suggestions Based on GPA
 GPA Range	Suggestion
 0 - 2.0	Focus more on core concepts and seek mentorship.
